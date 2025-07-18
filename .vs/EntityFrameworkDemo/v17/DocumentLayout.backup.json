@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\cms136\\Desktop\\Git\\EntityFrameworkDemo\\EntityFrameworkDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DD7560E4-D5D3-4668-9A73-5E9FC1322380}|EntityFrameworkDemo\\EntityFrameworkDemo.csproj|c:\\users\\cms136\\desktop\\git\\entityframeworkdemo\\entityframeworkdemo\\entityframeworkdemo\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD7560E4-D5D3-4668-9A73-5E9FC1322380}|EntityFrameworkDemo\\EntityFrameworkDemo.csproj|solutionrelative:entityframeworkdemo\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD7560E4-D5D3-4668-9A73-5E9FC1322380}|EntityFrameworkDemo\\EntityFrameworkDemo.csproj|c:\\users\\cms136\\desktop\\git\\entityframeworkdemo\\entityframeworkdemo\\entityframeworkdemo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD7560E4-D5D3-4668-9A73-5E9FC1322380}|EntityFrameworkDemo\\EntityFrameworkDemo.csproj|solutionrelative:entityframeworkdemo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD7560E4-D5D3-4668-9A73-5E9FC1322380}|EntityFrameworkDemo\\EntityFrameworkDemo.csproj|c:\\users\\cms136\\desktop\\git\\entityframeworkdemo\\entityframeworkdemo\\entityframeworkdemo\\models\\employeedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD7560E4-D5D3-4668-9A73-5E9FC1322380}|EntityFrameworkDemo\\EntityFrameworkDemo.csproj|solutionrelative:entityframeworkdemo\\models\\employeedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "C:\\Users\\cms136\\Desktop\\Git\\EntityFrameworkDemo\\EntityFrameworkDemo\\EntityFrameworkDemo\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "EntityFrameworkDemo\\Controllers\\EmployeesController.cs",
+              "ToolTip": "C:\\Users\\cms136\\Desktop\\Git\\EntityFrameworkDemo\\EntityFrameworkDemo\\EntityFrameworkDemo\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "EntityFrameworkDemo\\Controllers\\EmployeesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T07:51:26.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\cms136\\Desktop\\Git\\EntityFrameworkDemo\\EntityFrameworkDemo\\EntityFrameworkDemo\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "EntityFrameworkDemo\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\cms136\\Desktop\\Git\\EntityFrameworkDemo\\EntityFrameworkDemo\\EntityFrameworkDemo\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "EntityFrameworkDemo\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAgwBoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T07:42:25.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\cms136\\Desktop\\Git\\EntityFrameworkDemo\\EntityFrameworkDemo\\EntityFrameworkDemo\\Models\\EmployeeDbContext.cs",
+              "RelativeDocumentMoniker": "EntityFrameworkDemo\\Models\\EmployeeDbContext.cs",
+              "ToolTip": "C:\\Users\\cms136\\Desktop\\Git\\EntityFrameworkDemo\\EntityFrameworkDemo\\EntityFrameworkDemo\\Models\\EmployeeDbContext.cs",
+              "RelativeToolTip": "EntityFrameworkDemo\\Models\\EmployeeDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T07:42:01.312Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
